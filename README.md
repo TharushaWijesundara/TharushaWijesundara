@@ -5,7 +5,6 @@ Welcome to my GitHub profile! I'm **Tharusha Wijesundara**, a passionate undergr
 ---
 
 ## 🚀 About Me
-- 🖥️ **Software Engineering undergraduate** at Birmingham City University (BCU), UK.
 - 💡 I specialize in **web development**, **mobile application development**, and **UI/UX design**.
 - 🎨 Proficient in tools like **Figma**, **Photoshop**, and **Illustrator**.
 - 🌟 Currently exploring **iOS development** using **SwiftUI** and crafting modern UI designs.
